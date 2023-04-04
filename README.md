@@ -12,4 +12,4 @@ Configurations are made through variables:<br />
 -probability<br />
 -seeding strategy<br />
 
-Context and further info on the [thesis repo](https://github.com)
+Context and further info on the [thesis repo](https://github.com/2121Gix/Bachelor-Thesis)
